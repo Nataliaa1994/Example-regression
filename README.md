@@ -1,2 +1,3 @@
 # Example-regression
-Example  regression, polynomial regression 
+Example  regression, polynomial regression,clustering
+
