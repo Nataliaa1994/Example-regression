@@ -1,3 +1,2 @@
 # Example-regression,clustering
-Example  regression, polynomial regression,clustering.
-The linear model is underfitting. We need to increase the complexity of the model for our problem.
+Visually, you can see that the data is not linear - salary do not increase in the same degree as the number of job_level - so let's try the polynomial function.
